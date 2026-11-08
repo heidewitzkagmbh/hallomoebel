@@ -22,3 +22,6 @@ main{max-width:1440px;padding:0 48px}.hero{display:grid;grid-template-columns:1f
 
 /* Always-visible hashtag filters. */
 .quick{display:flex;flex-wrap:wrap;gap:9px;margin:22px 0 24px}.quick button{border:1px solid #dfded9;border-radius:999px;background:#f7f6f3;color:#45443f;padding:9px 15px;font-size:12px;line-height:1.4;min-height:38px;transition:background .15s,border-color .15s,color .15s}.quick button:hover{background:#f0d8cb;border-color:#d9b9a8}.quick button.active,.quick button[aria-pressed=true]{background:#202323;color:white;border:1px solid #202323}.quick button[data-discount="40"][aria-pressed=true]{background:#23734a;border-color:#23734a}.quick button[data-discount="20"][aria-pressed=true]{background:#e9b745;border-color:#e9b745;color:#362609}@media(max-width:600px){.quick{gap:8px;margin:18px 0 22px}.quick button{font-size:11px;padding:9px 12px;min-height:38px}}
+
+/* Approved wordmark, with transparent canvas padding clipped only in layout. */
+.logo{position:relative;display:block;width:240px;height:43px;overflow:hidden;flex-shrink:0}.logo img.brand-image{position:absolute;display:block;width:109%;height:auto;max-width:none;left:-4%;top:-56%}footer .logo{width:220px;height:39px}@media(max-width:600px){header .logo{width:200px;height:36px}footer .logo{width:200px;height:36px}}

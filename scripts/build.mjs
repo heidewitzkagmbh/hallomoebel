@@ -11,3 +11,5 @@ let html=await readFile('public/index.html','utf8');
 html=html.replace('__DATA__',JSON.stringify({preview,products}).replace(/</g,'\\u003c'));
 await writeFile('dist/index.html',html);await writeFile('dist/robots.txt','User-agent: *\nDisallow: /\n');
 console.log(`${rows.length} Datensätze, ${products.length} Angebote im ${preview?'Vorschau':'Freigabe'}modus.`);
+
+await mkdir('dist/design-zwillinge',{recursive:true});await copyFile('public/design-zwillinge.html','dist/design-zwillinge/index.html');

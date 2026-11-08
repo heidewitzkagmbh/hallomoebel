@@ -24,3 +24,6 @@ UVP wird nur bei ausdrücklich dokumentiertem Nachweis und Quellen-URL verwendet
 - Affiliate-Links und Kennzeichnung bei Aktivierung ergänzen. Aktuell nur reguläre Händlerlinks, kein Tracking und kein Newsletter-Versand.
 
 Die Merkliste speichert ausschließlich Produkt-IDs im lokalen Browser. Es werden keine Newsletter-Adressen gesammelt. Die Vorschau hat noindex; das ist kein Zugriffsschutz.
+
+## Gestaltungsreferenz (2026-11-08)
+Die visuelle Überarbeitung orientiert sich an der historischen MADE-Ansicht vom 26.12.2021 bei https://www.siteinspire.com/website/10477-made sowie der Cloudinary-Fallstudie von 2021. Übernommen wurden Gestaltungsprinzipien: klare serifenlose Typografie, weiße Flächen, separate Kategoriezeile, große Produktdarstellung und warme Kampagnenfläche. Eigenes Hallo-Möbel-Branding, eigene Texte und bereits recherchierte Produktfotos bleiben erhalten; keine MADE-Fotos oder Logos übernommen. 24 Teaser, vier Desktopspalten und weiße Bildflächen bleiben bestehen.

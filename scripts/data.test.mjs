@@ -1,0 +1,4 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {csv,number,select} from './data.mjs';
+test('CSV handles quoted delimiters, multiline values and escaped quotes',()=>{assert.deepEqual(csv('id;name\n1;"A; B\n""C"""\n'),[{id:'1',name:'A; B\n"C"'}]);});
+test('Unknown shipping stays unknown, free shipping remains zero',()=>{assert.equal(number(''),null);assert.equal(number('0,00'),0);assert.equal(number('1.234,50'),1234.5);});
+test('Drafts are preview-only, inactive products never appear, unsupported UVP is hidden',()=>{const r={id:'1',angebotspreis_eur:'99,00',produkt_url:'https://example.com',veroeffentlichungsstatus:'Entwurf',uvp_eur:'199',uvp_nachweis:'Nicht belegt'};assert.equal(select([r]).length,0);assert.equal(select([r],true)[0].uvp,null);assert.equal(select([{...r,angebotsstatus:'inaktiv'}],true).length,0);assert.equal(select([{...r,veroeffentlichungsstatus:'Freigegeben'}]).length,1);});

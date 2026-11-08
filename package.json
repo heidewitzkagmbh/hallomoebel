@@ -1,0 +1,1 @@
+{"name":"hallomoebel","version":"0.1.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","build:preview":"node scripts/build.mjs --preview","test":"node --test scripts/*.test.mjs"},"engines":{"node":">=20"}}

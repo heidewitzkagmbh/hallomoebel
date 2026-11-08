@@ -12,7 +12,7 @@ Node.js 20 oder neuer. `npm test`, dann `npm run build:preview`. `dist` mit eine
 
 Der Build verarbeitet die gesamte CSV. Inaktive Produkte bleiben immer ausgeblendet. `npm run build` veröffentlicht ausschließlich Datensätze mit `veroeffentlichungsstatus=Freigegeben`. `npm run build:preview` zeigt auch Entwürfe. Aktuell sind alle aktiven Datensätze Entwürfe; Vercel ist ausdrücklich im Vorschau-Modus konfiguriert.
 
-UVP wird nur bei ausdrücklich dokumentiertem Nachweis und Quellen-URL verwendet. Unbekannte Versandkosten bleiben unbekannt. UVP-Rabatte sind keine Marktpreisersparnis. Produktbilder fehlen in der Quelle; die Oberfläche zeigt ausdrücklich bezeichnete Kategorie-Symbole.
+UVP wird nur bei ausdrücklich dokumentiertem Nachweis und Quellen-URL verwendet. Unbekannte Versandkosten bleiben unbekannt. UVP-Rabatte sind keine Marktpreisersparnis. Produktbilder sind in `data/product-images.json` nach Angebots-ID mit Bildquelle, Original-URL und Rechte-Prüfstatus dokumentiert. Die Testansicht verwendet lokale Bilddateien, soweit abrufbar, sonst direkte Bildlinks. Alle Bilder sind nur für die Testansicht markiert; der reguläre Build gibt sie erst bei ausdrücklichem Status `Freigegeben` aus. Händlerbilder sind nicht pauschal als Herstellerfreigabe behandelt. Die Bildflächen sind 300 px (mobil 320 px) hoch, mit vollständiger Darstellung und großer Detailansicht.
 
 ## Vor öffentlichem Start
 

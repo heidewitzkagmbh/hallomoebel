@@ -13,3 +13,5 @@ await writeFile('dist/index.html',html);await writeFile('dist/robots.txt','User-
 console.log(`${rows.length} Datensätze, ${products.length} Angebote im ${preview?'Vorschau':'Freigabe'}modus.`);
 
 await mkdir('dist/design-zwillinge',{recursive:true});await copyFile('public/design-zwillinge.html','dist/design-zwillinge/index.html');
+
+await cp('public/produkte','dist/produkte',{recursive:true});

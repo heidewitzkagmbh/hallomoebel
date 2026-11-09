@@ -1,0 +1,254 @@
+{
+  "updated": "2026-11-09",
+  "inspiration": "https://www.hofstein.de/magazin/designerlampen-replica-entdecke-die-guenstigen-zwillinge/",
+  "comparisons": [
+    {
+      "id": "pilzleuchten",
+      "title": "Panthella & Fungo",
+      "tag": "TISCHLEUCHTEN",
+      "diff": "Fungo greift die weiße Pilz-Silhouette der Panthella auf. Ihr Fuß ist jedoch konisch statt geschwungen. Sie ist mit 28 cm Höhe deutlich kleiner als die Panthella 400 (54,2 cm) und bietet Akku-LED statt E27-Fassung.",
+      "take": "Eine kleine, mobile Stil-Alternative – keine gleich große Ersatzleuchte.",
+      "products": [
+        {
+          "name": "Louis Poulsen · Panthella 400",
+          "price": "670 €",
+          "details": "Herstellerpreis · Opalweiß",
+          "key": "panthella",
+          "image": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/63264/50422.webp?fit=crop&format=webp&height=600&quality=90&width=650",
+          "source": "https://www.louispoulsen.com/de-de/c/innenbeleuchtung/tischleuchten/panthella-400-table-lamp-v3?v=92036-5744173997-01",
+          "slug": "louis-poulsen-panthella-400",
+          "checked": "2026-11-08",
+          "role": "Designklassiker"
+        },
+        {
+          "name": "Briloner · Fungo",
+          "price": "28,90 €",
+          "details": "Weiß · Akku · Ø 16 cm / H 28 cm",
+          "key": "fungo",
+          "image": "https://lw-cdn.com/images/F970564B9758/k_27580a585960a372ca53320f1ded89fa;w_1600;h_1600;q_90/10015106.webp",
+          "source": "https://www.lampenwelt.de/p/led-akku-tischleuchte-fungo-aufladbar-weiss-10015106.html",
+          "slug": "briloner-fungo",
+          "checked": "2026-11-09",
+          "role": "Stil-Alternative"
+        }
+      ]
+    },
+    {
+      "id": "tulpenfuss",
+      "title": "Saarinen & DOCKSTA",
+      "tag": "ESSTISCHE",
+      "diff": "Ein Mittelfuß, zwei Materialien: Saarinen ist hier mit Walnussplatte abgebildet. DOCKSTA hat eine laminierte Spanplatte und misst Ø 103 cm.",
+      "take": "Ähnliche Silhouette für den Essplatz; Oberfläche und Ausführung unterscheiden sich.",
+      "products": [
+        {
+          "name": "Knoll · Saarinen Dining Table",
+          "price": "Preis je Ausführung",
+          "details": "Herstellerübersicht · abgebildet: Walnuss, weißer Fuß",
+          "key": "saarinen",
+          "image": "https://images.hermanmiller.group/asset/f67b2c61-b8e2-418d-afad-bf76cc3d42cb/W/DWR_7204_290685_light_walnut_white_base_f.png",
+          "source": "https://www.knoll.com/shop/en_us/dining-dining-tables/saarinen-dining-table-round/290685.html?sku=290685",
+          "slug": "knoll-saarinen-esstisch",
+          "checked": "2026-11-08",
+          "role": "Designklassiker"
+        },
+        {
+          "name": "IKEA · DOCKSTA",
+          "price": "159 €",
+          "details": "Weiß/weiß · Ø 103 cm · zzgl. Lieferkosten",
+          "key": "docksta",
+          "image": "https://www.ikea.com/de/de/images/products/docksta-tisch-weiss-weiss__0803262_pe768820_s5.jpg",
+          "source": "https://www.ikea.com/de/de/p/docksta-tisch-weiss-weiss-s19324995/",
+          "slug": "ikea-docksta",
+          "checked": "2026-11-08",
+          "role": "Stil-Alternative"
+        }
+      ]
+    },
+    {
+      "id": "bogenleuchten",
+      "title": "Arco & KUNGSHULT / SKAFTET",
+      "tag": "BOGENLEUCHTEN",
+      "diff": "Arco: Carrara-Marmor, Edelstahlbogen und Metallreflektor. IKEA: schwarzer Bogenfuß und weißer, plissierter Schirm.",
+      "take": "Eine funktionale Bogenleuchten-Alternative, kein enger optischer Zwilling.",
+      "products": [
+        {
+          "name": "Flos · Arco",
+          "price": "2.650 €",
+          "details": "Herstellerpreis · Modell F0300000",
+          "key": "arco",
+          "image": "https://flos.com/dw/image/v2/BFXX_PRD/on/demandware.static/-/Sites-FLOS-master/default/dwb087f1f9/images/packshot/DECORATIVE/DECORATIVE_FLOOR_ARCO/FU030000/Flos-Pim-Image-Luminaire-Floor-Arco-Steel.jpg?bgcolor=FFFFFF&sw=900",
+          "source": "https://flos.com/de/de/arco/M-arco.html",
+          "slug": "flos-arco",
+          "checked": "2026-11-08",
+          "role": "Designklassiker"
+        },
+        {
+          "name": "IKEA · KUNGSHULT / SKAFTET",
+          "price": "89,99 €",
+          "details": "Weiß/schwarz · Leuchtmittel und Lieferung extra",
+          "key": "skaftet",
+          "image": "https://www.ikea.com/de/de/images/products/kungshult-skaftet-standleuchte-bogenfoermig-weiss-schwarz__0966500_pe809818_s5.jpg",
+          "source": "https://www.ikea.com/de/de/p/kungshult-skaftet-standleuchte-bogenfoermig-weiss-schwarz-s19416018/",
+          "slug": "ikea-kungshult-skaftet",
+          "checked": "2026-11-08",
+          "role": "Stil-Alternative"
+        }
+      ]
+    },
+    {
+      "id": "ph5-vergleich",
+      "title": "PH 5 & BRENDA",
+      "tag": "PENDELLEUCHTEN",
+      "diff": "Die gestaffelten Schirme sind das gemeinsame Motiv. BRENDA ist ein eigener Entwurf: Schirmproportionen und Lichtverteilung sind nicht mit der PH 5 gleichzusetzen.",
+      "take": "Material, Maße und Lichtwirkung vor dem Kauf vergleichen.",
+      "products": [
+        {
+          "name": "Louis Poulsen · PH 5",
+          "price": "Preis je Ausführung",
+          "details": "Mehrschirmsystem · verschiedene Farben",
+          "key": "ph5",
+          "image": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/9846/50422.webp?timestamp=2026-03-17T15%3a02%3a43.7164476",
+          "source": "https://www.louispoulsen.com/de-de/c/innenbeleuchtung/pendelleuchten/ph5?v=90293-5741099854-01",
+          "slug": "louis-poulsen-ph-5",
+          "checked": "2026-11-09",
+          "role": "Designklassiker"
+        },
+        {
+          "name": "EGLO · BRENDA",
+          "price": "63,65 €",
+          "details": "Weiß / Nickel-matt · E27",
+          "key": "brenda",
+          "image": "https://www.hofstein.de/media/product/61885/700x700/eglo-brenda-haengeleuchte-98734-0.jpg",
+          "source": "https://www.hofstein.de/eglo-brenda-haengeleuchte-98734.html",
+          "slug": "eglo-brenda",
+          "checked": "2026-11-09",
+          "role": "Stil-Alternative"
+        }
+      ]
+    },
+    {
+      "id": "ph32-vergleich",
+      "title": "PH 3/2 & Sundet",
+      "tag": "PENDELLEUCHTEN",
+      "diff": "Die PH 3/2 arbeitet mit lichtdurchlässigen Opalglasschirmen. Sundet übernimmt die gestaffelte Silhouette mit weißen Metallschirmen – das verändert die Lichtwirkung deutlich.",
+      "take": "Material, Maße und Lichtwirkung vor dem Kauf vergleichen.",
+      "products": [
+        {
+          "name": "Louis Poulsen · PH 3/2",
+          "price": "920 €",
+          "details": "Opalglas / Chrom · Herstellerpreis",
+          "key": "ph32",
+          "image": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/9829/50422.webp?timestamp=2026-03-17T15%3a02%3a45.3552969",
+          "source": "https://www.louispoulsen.com/de-de/c/innenbeleuchtung/pendelleuchten/ph-32-pendelleuchte?v=90289-5741097513-01",
+          "slug": "louis-poulsen-ph-3-2",
+          "checked": "2026-11-09",
+          "role": "Designklassiker"
+        },
+        {
+          "name": "Hofstein · Sundet",
+          "price": "69,99 €",
+          "details": "Weiß · Metall · Ø 38 cm · E27",
+          "key": "sundet",
+          "image": "https://www.hofstein.de/media/product/136989/700x700/sundet-haengeleuchte-h3618028-0.jpg",
+          "source": "https://www.hofstein.de/sundet-haengeleuchte-h3618028.html",
+          "slug": "hofstein-sundet",
+          "checked": "2026-11-09",
+          "role": "Stil-Alternative"
+        }
+      ]
+    },
+    {
+      "id": "aj-vergleich",
+      "title": "AJ & Vanila",
+      "tag": "WANDLEUCHTEN",
+      "diff": "Beide richten das Licht über einen geneigten Schirm aus. Vanila hat einen runderen Kopf; die AJ wirkt kantiger. Hier stehen zudem Edelstahl und eine schwarze Oberfläche gegenüber.",
+      "take": "Material, Maße und Lichtwirkung vor dem Kauf vergleichen.",
+      "products": [
+        {
+          "name": "Louis Poulsen · AJ Wandleuchte",
+          "price": "880 €",
+          "details": "Edelstahl poliert · Herstellerpreis",
+          "key": "ajwall",
+          "image": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/59260/50422.webp?timestamp=2026-03-17T14%3a11%3a26.2970615",
+          "source": "https://www.louispoulsen.com/de-de/c/innenbeleuchtung/wandleuchte/aj-wandleuchte?v=90403-5743150034-01",
+          "slug": "louis-poulsen-aj-wandleuchte",
+          "checked": "2026-11-09",
+          "role": "Designklassiker"
+        },
+        {
+          "name": "Nordlux · Vanila",
+          "price": "59,99 €",
+          "details": "Schwarz · Modell 72711003 · E14",
+          "key": "vanila",
+          "image": "https://www.hofstein.de/media/product/22546/700x700/nordlux-vanila-wandleuchte-72711003-0.jpg",
+          "source": "https://www.hofstein.de/nordlux-vanila-wandleuchte-72711003.html",
+          "slug": "nordlux-vanila",
+          "checked": "2026-11-09",
+          "role": "Stil-Alternative"
+        }
+      ]
+    },
+    {
+      "id": "ic-vergleich",
+      "title": "IC Lights & Hogatza",
+      "tag": "STEHLEUCHTEN",
+      "diff": "Eine helle Kugel am schlanken Gestell verbindet beide Entwürfe. Anordnung von Kugel, Stab und Fuß unterscheidet sich; die IC Lights besitzt laut Flos einen Dimmer am Kabel.",
+      "take": "Material, Maße und Lichtwirkung vor dem Kauf vergleichen.",
+      "products": [
+        {
+          "name": "Flos · IC Lights F1",
+          "price": "765 €",
+          "details": "Messing · Herstellerpreis",
+          "key": "ic",
+          "image": "https://flos.com/on/demandware.static/-/Sites-FLOS-master/default/dw15128bd2/images/packshot/DECORATIVE/DECORATIVE_FLOOR_IC-LIGHTS/FU317359/Flos-Pim-Image-Luminaire-Floor-IC_Lights-F1-Brass.jpg",
+          "source": "https://flos.com/de/de/ic-lights-floor/M-ic-lights-floor.html",
+          "slug": "flos-ic-lights-f1",
+          "checked": "2026-11-09",
+          "role": "Designklassiker"
+        },
+        {
+          "name": "Hofstein · Hogatza",
+          "price": "109,99 €",
+          "details": "Messingfarben · Modell H3355220",
+          "key": "hogatza",
+          "image": "https://www.hofstein.de/media/product/46408/700x700/hogatza-stehleuchte-h3355220-0.jpg",
+          "source": "https://www.hofstein.de/hogatza-stehleuchte-h3355220.html",
+          "slug": "hofstein-hogatza",
+          "checked": "2026-11-09",
+          "role": "Stil-Alternative"
+        }
+      ]
+    },
+    {
+      "id": "wagenfeld-vergleich",
+      "title": "Wagenfeld & Berlin",
+      "tag": "TISCHLEUCHTEN",
+      "diff": "Beide kombinieren einen runden, hellen Schirm mit einem geraden Schaft. Das Original WG 24 hat einen Glasfuß und Glasschaft; Berlin setzt optisch auf Metall und nutzt LED-Technik.",
+      "take": "Material, Maße und Lichtwirkung vor dem Kauf vergleichen.",
+      "products": [
+        {
+          "name": "Tecnolumen · Wagenfeld WG 24",
+          "price": "Preis beim Anbieter",
+          "details": "Glasfuß · Glasschaft · Opalglasschirm",
+          "key": "wg24",
+          "image": "https://shop.tecnolumen.de/media/catalog/product/cache/3d59e9a51ce3ed1ed74efc34a1d73d19/w/g/wg24_leuchte_tecnolumen_web_fs.png",
+          "source": "https://shop.tecnolumen.de/wagenfeld-tischleuchte",
+          "slug": "tecnolumen-wagenfeld-wg24",
+          "checked": "2026-11-09",
+          "role": "Designklassiker"
+        },
+        {
+          "name": "Trio · Berlin",
+          "price": "62,82 €",
+          "details": "Nickel-matt · LED · Modell 527590107",
+          "key": "berlin",
+          "image": "https://www.hofstein.de/media/product/48739/700x700/trio-leuchten-berlin-tischleuchte-527590107-0.jpg",
+          "source": "https://www.hofstein.de/trio-leuchten-berlin-tischleuchte-527590107.html",
+          "slug": "trio-berlin",
+          "checked": "2026-11-09",
+          "role": "Stil-Alternative"
+        }
+      ]
+    }
+  ]
+}

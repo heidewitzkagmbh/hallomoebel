@@ -3,37 +3,6 @@
   "inspiration": "https://www.hofstein.de/magazin/designerlampen-replica-entdecke-die-guenstigen-zwillinge/",
   "comparisons": [
     {
-      "id": "pilzleuchten",
-      "title": "Panthella & Fungo",
-      "tag": "TISCHLEUCHTEN",
-      "diff": "Fungo greift die weiße Pilz-Silhouette der Panthella auf. Ihr Fuß ist jedoch konisch statt geschwungen. Sie ist mit 28 cm Höhe deutlich kleiner als die Panthella 400 (54,2 cm) und bietet Akku-LED statt E27-Fassung.",
-      "take": "Eine kleine, mobile Stil-Alternative – keine gleich große Ersatzleuchte.",
-      "products": [
-        {
-          "name": "Louis Poulsen · Panthella 400",
-          "price": "670 €",
-          "details": "Herstellerpreis · Opalweiß",
-          "key": "panthella",
-          "image": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/63264/50422.webp?fit=crop&format=webp&height=600&quality=90&width=650",
-          "source": "https://www.louispoulsen.com/de-de/c/innenbeleuchtung/tischleuchten/panthella-400-table-lamp-v3?v=92036-5744173997-01",
-          "slug": "louis-poulsen-panthella-400",
-          "checked": "2026-11-08",
-          "role": "Designklassiker"
-        },
-        {
-          "name": "Briloner · Fungo",
-          "price": "28,90 €",
-          "details": "Weiß · Akku · Ø 16 cm / H 28 cm",
-          "key": "fungo",
-          "image": "https://lw-cdn.com/images/F970564B9758/k_27580a585960a372ca53320f1ded89fa;w_1600;h_1600;q_90/10015106.webp",
-          "source": "https://www.lampenwelt.de/p/led-akku-tischleuchte-fungo-aufladbar-weiss-10015106.html",
-          "slug": "briloner-fungo",
-          "checked": "2026-11-09",
-          "role": "Stil-Alternative"
-        }
-      ]
-    },
-    {
       "id": "tulpenfuss",
       "title": "Saarinen & DOCKSTA",
       "tag": "ESSTISCHE",
@@ -245,6 +214,37 @@
           "image": "https://www.hofstein.de/media/product/48739/700x700/trio-leuchten-berlin-tischleuchte-527590107-0.jpg",
           "source": "https://www.hofstein.de/trio-leuchten-berlin-tischleuchte-527590107.html",
           "slug": "trio-berlin",
+          "checked": "2026-11-09",
+          "role": "Stil-Alternative"
+        }
+      ]
+    },
+    {
+      "id": "pilzleuchten",
+      "title": "Panthella & Fungo",
+      "tag": "TISCHLEUCHTEN",
+      "diff": "Fungo greift die weiße Pilz-Silhouette der Panthella auf. Ihr Fuß ist jedoch konisch statt geschwungen. Sie ist mit 28 cm Höhe deutlich kleiner als die Panthella 400 (54,2 cm) und bietet Akku-LED statt E27-Fassung.",
+      "take": "Eine kleine, mobile Stil-Alternative – keine gleich große Ersatzleuchte.",
+      "products": [
+        {
+          "name": "Louis Poulsen · Panthella 400",
+          "price": "670 €",
+          "details": "Herstellerpreis · Opalweiß",
+          "key": "panthella",
+          "image": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/63264/50422.webp?fit=crop&format=webp&height=600&quality=90&width=650",
+          "source": "https://www.louispoulsen.com/de-de/c/innenbeleuchtung/tischleuchten/panthella-400-table-lamp-v3?v=92036-5744173997-01",
+          "slug": "louis-poulsen-panthella-400",
+          "checked": "2026-11-08",
+          "role": "Designklassiker"
+        },
+        {
+          "name": "Briloner · Fungo",
+          "price": "28,90 €",
+          "details": "Weiß · Akku · Ø 16 cm / H 28 cm",
+          "key": "fungo",
+          "image": "https://lw-cdn.com/images/F970564B9758/k_27580a585960a372ca53320f1ded89fa;w_1600;h_1600;q_90/10015106.webp",
+          "source": "https://www.lampenwelt.de/p/led-akku-tischleuchte-fungo-aufladbar-weiss-10015106.html",
+          "slug": "briloner-fungo",
           "checked": "2026-11-09",
           "role": "Stil-Alternative"
         }
